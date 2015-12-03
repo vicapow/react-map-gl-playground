@@ -1,5 +1,5 @@
 
-# A simple playground to experiment with react-map-gl
+# A playground to experiment with react-map-gl
 
 ## Installation
 
